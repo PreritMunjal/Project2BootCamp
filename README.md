@@ -1,5 +1,5 @@
 # Project2BootCamp
-Software Used : CodeBlocks "\n"
+Software Used : CodeBlocks 
 Languagge Used: C++
 Implementation: Sudoku solver 
 Outcome: Learnt to solve Sudoku , made a program to Solve a Sudoku Problem within no time.Though the answer is not 100% correct ,but it's accuracy is upto 95%.
